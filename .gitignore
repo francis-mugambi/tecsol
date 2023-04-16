@@ -5,5 +5,5 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore contact handler.
-/forms
+/forms/contact.php
 /assets/img
